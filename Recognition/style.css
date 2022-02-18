@@ -1,0 +1,11 @@
+body{
+    background-color: orange;
+}
+hr{
+    color:white;
+    height: 3px;
+}
+#captured_image{
+    width:350 px;
+    height:300 px;
+}
